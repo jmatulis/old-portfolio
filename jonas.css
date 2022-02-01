@@ -1,0 +1,7 @@
+body{
+    background-color: steelblue;
+    color: white;
+    position:relative;
+    left: 20px;
+    font-family: monospace, sans-serif;
+}
